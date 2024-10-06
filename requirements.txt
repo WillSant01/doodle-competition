@@ -1,0 +1,12 @@
+keras==3.6.0
+lightning==2.4.0
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+pytorch-lightning==2.4.0
+scikit-learn==1.5.2
+tensorflow==2.17.0
+torch==2.4.1
+torchaudio==2.4.1
+torchmetrics==1.4.2
+torchvision==0.19.1
